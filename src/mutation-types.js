@@ -1,0 +1,4 @@
+export const POSTS = "POSTS";
+export const COMMENTS = "COMMENTS";
+export const SECONDARY_COMMENTS = "SECONDARY_COMMENTS";
+export const TERTIARY_COMMENTS = "TERTIARY_COMMENTS";
