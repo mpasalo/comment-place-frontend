@@ -1,4 +1,5 @@
-# comment-place-frontend
+1.copy .env.example and create .env
+2. add backend url
 
 ## Project setup
 ```
