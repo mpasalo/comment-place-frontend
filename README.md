@@ -1,5 +1,4 @@
-1.copy .env.example and create .env
-2. add backend url
+First, copy .env.example and create .env then add backend url
 
 ## Project setup
 ```
